@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BETA BOT'; 
+const BotName = 'Mr.Cat BOT'; 
 const instagram = 'https://instagram.com/mwmaulana310'; 
 const telegram = 'https://t.me/bukanuserbiasa'; 
 const kapanbotaktif = '24 JAM'; 
