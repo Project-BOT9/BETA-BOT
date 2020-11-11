@@ -151,6 +151,10 @@ else if (text == 'Test')
 {
   conn.sendMessage(id, tambahan.test, MessageType.text);
 }
+else if (text == '!rules')
+{
+conn.sendMessage(id, tambahan.rules ,MessageType.text);
+}
 else if (text == 'HAI')
 {
 conn.sendMessage(id, tambahan.hai ,MessageType.text);
